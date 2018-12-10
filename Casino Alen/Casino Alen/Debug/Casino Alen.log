@@ -1,0 +1,6 @@
+﻿  Casino Alen.cpp
+c:\users\uc-m01\documents\alen uglik\casino\casino alen\casino alen\casino alen.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\uc-m01\documents\alen uglik\casino\casino alen\casino alen\casino alen.cpp(160): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\uc-m01\documents\alen uglik\casino\casino alen\casino alen\casino alen.cpp(258): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\uc-m01\documents\alen uglik\casino\casino alen\casino alen\casino alen.cpp(315): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Casino Alen.vcxproj -> C:\Users\UC-M01\Documents\Alen Uglik\Casino\Casino Alen\Debug\Casino Alen.exe
